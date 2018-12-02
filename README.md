@@ -1,2 +1,2 @@
 # DjangogirlsTrabzon
-Djangogirls Trabzon için hazırlanmak için Tutorial.djangogirls.org takip edilerek hazırlanmıştır.
+Djangogirls Trabzon hazırlanmak için tutorial.djangogirls.org takip edilerek hazırlanmıştır.
